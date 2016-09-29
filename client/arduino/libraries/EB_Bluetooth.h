@@ -14,7 +14,7 @@
 #define _EB_BLUETOOTH_H
 
 #include <Arduino.h>
-#include "SoftwareSerial.h"
+#include <SoftwareSerial.h>
 #include <WString.h>
 
 class EB_Bluetooth{
